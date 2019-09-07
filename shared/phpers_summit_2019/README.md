@@ -2,7 +2,7 @@
 
 ### Slides
 
-Presentation is available [here](https://github.com/tagvenue/random/blob/master/shared/phpers_summit_2019/201909_phpers_summit_PDF.pdf)
+Presentation is available [here](https://github.com/tagvenue/random/raw/master/shared/phpers_summit_2019/201909_phpers_summit_PDF.pdf)
 
 ### Networking
 
