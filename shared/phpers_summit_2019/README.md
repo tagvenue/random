@@ -9,4 +9,4 @@ Presentation is available [here](https://github.com/tagvenue/random/blob/master/
 - Konrad Otrębski: [LinkedIn](https://www.linkedin.com/in/konradotrebski/), [Twitter](https://twitter.com/kmotrebski)
 - Dawid Widyna [LinkedIn](https://www.linkedin.com/in/dawid-widyna/)
 
-### P.S. We're hiring! Take a look at our openings at [careers.tagvenue.com](https://careers.tagvenue.com)
+### P.S. We're hiring! Take a look at our openings at [careers.tagvenue.com](https://careers.tagvenue.com/departments/it-product)
