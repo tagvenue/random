@@ -1,8 +1,9 @@
-# Continuous Integration - PHPers Summit 2019
+## Continuous Integration - PHPers Summit 2019
 
-### Slides
+### Presentation
 
-Presentation is available [here](https://github.com/tagvenue/random/raw/master/shared/phpers_summit_2019/201909_phpers_summit_PDF.pdf)
+- Slides: [here](https://github.com/tagvenue/random/raw/master/shared/phpers_summit_2019/201909_phpers_summit_PDF.pdf)
+- Leave us feedback: [Joind.in](https://joind.in/talk/e7039)
 
 ### Networking
 
@@ -10,4 +11,6 @@ Presentation is available [here](https://github.com/tagvenue/random/raw/master/s
 - Dawid Widyna [LinkedIn](https://www.linkedin.com/in/dawid-widyna/)
 - Maciej Dudziński [LinkedIn](https://www.linkedin.com/in/maciejdudzinski/)
 
-### P.S. We're hiring! Take a look at our openings at [careers.tagvenue.com](https://careers.tagvenue.com/departments/it-product)
+### We're hiring!
+
+Take a look at our openings at [careers.tagvenue.com](https://careers.tagvenue.com/departments/it-product)
